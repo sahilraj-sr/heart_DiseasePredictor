@@ -21,17 +21,17 @@ The problem is : based on the given information about each individual we have to
 
 ## Dataset :
 
-The dataset consists of 779 individuals data.
+The dataset consists of 304 individuals data.
 There are 15 columns in the dataset, however the first column name is not a good parameter as far as machine learning is considered so, there are effectively 14 columns.
 
 1.	Age : displays the age of the individual.
 2.	Sex : displays the gender of the individual using the following   format : 1 = male
           0 = female.
 3.	Chest-pain type : displays the type of chest-pain experienced by the individual using the following format :
-           1 = typical angina
-           2 = atypical angina
-           3 = non - anginal pain
-           4 = asymptotic
+           0 = typical angina
+           1 = atypical angina
+           2 = non - anginal pain
+           3 = asymptotic
 4.	Resting Blood Pressure : displays the resting blood pressure value of an individual in mmHg (unit)
 5.	Serum Cholestrol : displays the serum cholestrol in mg/dl (unit)
 6.	Fasting Blood Sugar : compares the fasting blood sugar value of an individual with 120mg/dl. 
