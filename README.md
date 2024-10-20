@@ -1,4 +1,3 @@
-Heart Disease Predictor
 # Heart Disease prediction using Machine Learning.
 
 ## The brief information about the approach is given in the following.
