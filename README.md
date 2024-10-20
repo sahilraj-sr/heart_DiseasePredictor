@@ -16,7 +16,7 @@ Machine Learning helps in predicting the Heart diseases, and the predictions mad
 
 Problem Description :
 
-A dataset is formed by taking into consideration some of the information of 779 individuals.
+A dataset is formed by taking into consideration some of the information of 304 individuals.
 The problem is : based on the given information about each individual we have to calculate that whether that individual will suffer from heart disease.
 
 ## Dataset :
